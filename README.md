@@ -10,4 +10,4 @@ We propose a strong baseline method for detecting a fake clip from a long video.
    
 Extensive experiment results on the FakePoI dataset demonstrate that the proposed baseline method works satisfactorily and outperforms existing deepfake detection methods significantly.
 
-Since our paper is in the review stage, I only released part of the datasets and code. I sincerely hope that all researchers can understand. After the article is accepted, I will release all datasets and code.
+Additionally, we are in the process of applying for permission to release our dataset publicly and we will make it available as soon as possible.
